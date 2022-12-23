@@ -1,0 +1,17 @@
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.DataAccess\obj\Debug\net7.0\UdemyCourse.DataAccess.csproj.AssemblyReference.cache
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.DataAccess\obj\Debug\net7.0\UdemyCourse.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.DataAccess\obj\Debug\net7.0\UdemyCourse.DataAccess.AssemblyInfoInputs.cache
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.DataAccess\obj\Debug\net7.0\UdemyCourse.DataAccess.AssemblyInfo.cs
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.DataAccess\obj\Debug\net7.0\UdemyCourse.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.DataAccess\bin\Debug\net7.0\UdemyCourse.DataAccess.deps.json
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.DataAccess\bin\Debug\net7.0\UdemyCourse.DataAccess.runtimeconfig.json
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.DataAccess\bin\Debug\net7.0\UdemyCourse.DataAccess.dll
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.DataAccess\bin\Debug\net7.0\UdemyCourse.DataAccess.pdb
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.DataAccess\bin\Debug\net7.0\UdemyCourse.Models.dll
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.DataAccess\bin\Debug\net7.0\UdemyCourse.Models.pdb
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.DataAccess\obj\Debug\net7.0\UdemyCourse.DataAccess.csproj.CopyComplete
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.DataAccess\obj\Debug\net7.0\UdemyCourse.DataAccess.dll
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.DataAccess\obj\Debug\net7.0\refint\UdemyCourse.DataAccess.dll
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.DataAccess\obj\Debug\net7.0\UdemyCourse.DataAccess.pdb
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.DataAccess\obj\Debug\net7.0\UdemyCourse.DataAccess.genruntimeconfig.cache
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.DataAccess\obj\Debug\net7.0\ref\UdemyCourse.DataAccess.dll
