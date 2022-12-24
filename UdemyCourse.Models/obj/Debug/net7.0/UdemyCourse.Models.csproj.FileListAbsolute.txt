@@ -1,0 +1,12 @@
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.Models\bin\Debug\net7.0\UdemyCourse.Models.deps.json
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.Models\bin\Debug\net7.0\UdemyCourse.Models.dll
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.Models\bin\Debug\net7.0\UdemyCourse.Models.pdb
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.Models\obj\Debug\net7.0\UdemyCourse.Models.csproj.AssemblyReference.cache
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.Models\obj\Debug\net7.0\UdemyCourse.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.Models\obj\Debug\net7.0\UdemyCourse.Models.AssemblyInfoInputs.cache
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.Models\obj\Debug\net7.0\UdemyCourse.Models.AssemblyInfo.cs
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.Models\obj\Debug\net7.0\UdemyCourse.Models.csproj.CoreCompileInputs.cache
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.Models\obj\Debug\net7.0\UdemyCourse.Models.dll
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.Models\obj\Debug\net7.0\refint\UdemyCourse.Models.dll
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.Models\obj\Debug\net7.0\UdemyCourse.Models.pdb
+C:\Users\37529\source\repos\UdemyCourse\UdemyCourse.Models\obj\Debug\net7.0\ref\UdemyCourse.Models.dll
