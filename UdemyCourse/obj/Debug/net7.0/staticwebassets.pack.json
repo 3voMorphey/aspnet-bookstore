@@ -17,6 +17,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\37529\\source\\repos\\UdemyCourse\\UdemyCourse\\wwwroot\\images\\products\\0caf43d7-3d3b-4d28-ad52-27349f2bc493.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\0caf43d7-3d3b-4d28-ad52-27349f2bc493.jpg"
+    },
+    {
+      "Id": "C:\\Users\\37529\\source\\repos\\UdemyCourse\\UdemyCourse\\wwwroot\\images\\products\\36c8a9c4-17e1-42cd-89de-c8a52efe6594.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\36c8a9c4-17e1-42cd-89de-c8a52efe6594.jpg"
+    },
+    {
+      "Id": "C:\\Users\\37529\\source\\repos\\UdemyCourse\\UdemyCourse\\wwwroot\\images\\products\\524adf6a-1727-4c06-b8c4-b5a25f066e8f.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\524adf6a-1727-4c06-b8c4-b5a25f066e8f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\37529\\source\\repos\\UdemyCourse\\UdemyCourse\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
       "Id": "C:\\Users\\37529\\source\\repos\\UdemyCourse\\UdemyCourse\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
